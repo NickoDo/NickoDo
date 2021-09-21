@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickoDo (Gunga Ginga)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Javascript, Java and LUA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Discord Bots and JS Projects
 - 📫 How to reach me: Feel free to send me a Discord Message; @Gunga Ginga#9101
 
 <!---
