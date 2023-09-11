@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickoDo (Ωmega)
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javascript, Java and LUA
-- 💞️ I’m looking to collaborate on Discord Bots and JS Projects
+- 👀 I’m interested in Software Development and 3D Printing.
+- 🌱 I’m currently learning Javascript and CS50x
+- 💞️ I’m looking to collaborate on Discord Bots, JS Projects, Arduino Projects and RepRap.
 - 📫 How to reach me: Feel free to send me a Discord Message; @Ωmega#3883
 
 <!---
